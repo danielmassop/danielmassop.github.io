@@ -65,11 +65,12 @@ header div img {
       visibility: hidden;
     }
 
-    header div img {
-      padding-left: 1vh;
-      padding-right: 1vh;
-      width: 2vh;
-      height: 2vh;
+    nav a{
+      color: darkred;
+      text-decoration: none;
+      padding: 2px;
+      padding-right: 4px;
+      border: 1px solid black;
     }
 }
 
@@ -100,7 +101,7 @@ header div img {
   padding-left: 5vh;
 }
 
-.home_head  img {
+.home_head img {
   padding-left: 3vh;
   padding-right: 3vh;
   width: 25vh;
