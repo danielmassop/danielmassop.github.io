@@ -42,28 +42,22 @@ footer div {
   height: 100%;
 }
 
-@media only screen and (min-width: 769px) {
-
-  header div h1 {
-    font-size: 6vh;
-    color: darkred;
-    font-family: helvetica;
-  }
-
-  header div img {
-    padding-left: 3vh;
-    padding-right: 3vh;
-    width: 6vh;
-    height: 6vh;
-  }
+header div h1 {
+  font-size: 6vh;
+  color: darkred;
+  font-family: helvetica;
 }
 
-
-
+header div img {
+  padding-left: 3vh;
+  padding-right: 3vh;
+  width: 6vh;
+  height: 6vh;
+}
 
 @media only screen and (max-width: 768px) {
     header div h1 {
-        display: none;
+      display: none;
     }
     header div img {
       display: none;
