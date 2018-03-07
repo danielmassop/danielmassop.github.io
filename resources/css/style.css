@@ -61,9 +61,9 @@ header div img {
       visibility: none;
     }
 
-    .home_head div h1 {
-      font-size: 4px;
-      margin: 0vh;
+    .home_head img {
+      display: none;
+      visibility: none;
     }
 }
 
