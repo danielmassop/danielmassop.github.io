@@ -64,6 +64,13 @@ header div img {
       display: none;
       visibility: hidden;
     }
+
+    header div img {
+      padding-left: 1vh;
+      padding-right: 1vh;
+      width: 2vh;
+      height: 2vh;
+    }
 }
 
 .home_head {
