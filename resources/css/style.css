@@ -26,6 +26,15 @@ header div {
   height: 100%;
 }
 
+@media only screen and (max-width: 768px) {
+    div h1 {
+        display: none;
+    }
+    div img {
+      display: none;
+    }
+}
+
 footer {
   width: 100%;
   height: 8vh;
