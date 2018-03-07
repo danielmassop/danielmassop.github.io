@@ -60,6 +60,11 @@ header div img {
       display: none;
       visibility: none;
     }
+
+    .home_head div h1 {
+      font-size: 6vh;
+      margin: 0vh;
+    }
 }
 
 @media screen and (max-width: 1400px) {
