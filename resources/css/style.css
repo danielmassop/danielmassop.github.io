@@ -62,7 +62,7 @@ header div img {
     }
 }
 
-@media screen and (max-width: 1185px) {
+@media screen and (max-width: 1400px) {
     header div h1 {
       display: none;
       visibility: hidden;
