@@ -56,6 +56,13 @@ header div img {
 }
 
 @media screen and (max-width: 768px) {
+    .menu {
+      display: none;
+      visibility: none;
+    }
+}
+
+@media screen and (max-width: 1150px) {
     header div h1 {
       display: none;
       visibility: hidden;
@@ -63,14 +70,6 @@ header div img {
     header div img {
       display: none;
       visibility: hidden;
-    }
-
-    nav a{
-      color: darkred;
-      text-decoration: none;
-      padding: 2px;
-      padding-right: 4px;
-      border: 1px solid black;
     }
 }
 
