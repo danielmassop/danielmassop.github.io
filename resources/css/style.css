@@ -55,14 +55,14 @@ header div img {
   height: 6vh;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 500px) {
     .menu {
       display: none;
       visibility: none;
     }
 }
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 750px) {
     header div h1 {
       display: none;
       visibility: hidden;
