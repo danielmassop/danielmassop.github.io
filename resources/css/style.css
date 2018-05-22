@@ -61,11 +61,6 @@ header div img {
       visibility: none;
     }
 
-    .home_head img {
-      display: none;
-      visibility: none;
-    }
-
     .home_head {
       padding: 2px;
     }
