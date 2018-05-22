@@ -61,6 +61,11 @@ header div img {
       visibility: none;
     }
 
+    .home_head img {
+      display: none;
+      visibility: none;
+    }
+
     .home_head {
       padding: 2px;
     }
@@ -87,10 +92,6 @@ header div img {
 
 @media screen and (max-width: 1400px) {
     header div h1 {
-      display: none;
-      visibility: hidden;
-    }
-    header div img {
       display: none;
       visibility: hidden;
     }
