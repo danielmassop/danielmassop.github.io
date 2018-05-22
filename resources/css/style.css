@@ -79,6 +79,12 @@ header div img {
     }
 }
 
+@media only screen and (min-width : 321px) {
+  #main_nav_list {
+    padding-top: 80vh;
+  }
+}
+
 @media screen and (max-width: 1400px) {
     header div h1 {
       display: none;
