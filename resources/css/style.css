@@ -69,6 +69,14 @@ header div img {
     .home_head {
       padding: 2px;
     }
+
+    #main_nav_list {
+      padding-top: 30vh;
+    }
+
+    #main_nav_list a {
+      display: block;
+    }
 }
 
 @media screen and (max-width: 1400px) {
