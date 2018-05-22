@@ -70,13 +70,18 @@ header div img {
       padding: 2px;
     }
 
-    #main_nav_list {
-      padding-top: 50vh;
-    }
-
     #main_nav_list a {
       display: block;
     }
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px) {
+  
+  #main_nav_list {
+    padding-top: 50vh;
+  }
+
 }
 
 @media only screen and (min-width : 321px) {
