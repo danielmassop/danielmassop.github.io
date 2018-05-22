@@ -79,14 +79,14 @@ header div img {
 @media only screen and (max-width : 375px) {
 
   #main_nav_list {
-    padding-top: 50vh;
+    margin-top: 10vh;
   }
 
 }
 
-@media only screen and (min-width : 376px) and (max-width : 680px) {
+@media only screen and (min-width : 376px) {
   #main_nav_list {
-    padding-top: 150vh;
+    margin-top: 20vh;
   }
 }
 
