@@ -55,7 +55,7 @@ header div img {
   height: 6vh;
 }
 
-@media screen and (max-width: 825px) {
+@media screen and (max-width: 600px) {
     .menu {
       display: none;
       visibility: none;
